@@ -1,4 +1,4 @@
 package rules
 
 
-sd = 9
+sd = 20
