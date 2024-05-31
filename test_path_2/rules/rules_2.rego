@@ -1,3 +1,4 @@
 package rules
 
-s = 9
+
+d = 9
