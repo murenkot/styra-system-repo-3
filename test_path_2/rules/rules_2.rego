@@ -1,4 +1,3 @@
 package rules
 
-
-b = 8
+sdcs = 8
