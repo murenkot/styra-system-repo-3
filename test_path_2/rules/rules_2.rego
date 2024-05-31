@@ -1,4 +1,3 @@
 package rules
 
-
-d = 99
+dw = 9
