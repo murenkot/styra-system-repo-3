@@ -27,6 +27,7 @@ test_allow if {
     }
 
 
+
     print(result)
     result == {"User janet granted access to perform GET on path '/home' based on membership of group back-office"}
 }
